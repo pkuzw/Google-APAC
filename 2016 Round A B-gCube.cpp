@@ -20,9 +20,9 @@ using namespace std;
 int main()
 {
 	ifstream fin;
-	fin.open("C:\\Users\\Zhao Wei\\Downloads\\B-small-attempt0.in");
+	fin.open("C:\\Users\\Zhao Wei\\Downloads\\B-large.in");
 	ofstream fout;
-	fout.open("C:\\Users\\Zhao Wei\\Downloads\\B-small-attempt0.out");
+	fout.open("C:\\Users\\Zhao Wei\\Downloads\\B-large.out");
 
 	int test_num = 0;
 	fin >> test_num;
